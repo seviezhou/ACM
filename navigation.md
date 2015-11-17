@@ -5,3 +5,9 @@
 [训练计划](training.md)
 [题单](problems.md)
 [错误集](mistake.md)
+
+[gimmick:themechooser](Choose theme)
+
+[gimmick:ForkMeOnGitHub ({ color: 'red',  position: 'left' })](http://www.github.com/fengdalu/acm)
+
+[gimmick: math]()
