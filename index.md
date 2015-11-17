@@ -1,6 +1,5 @@
 ﻿# BJTU Team SpadeAce 2015
 
-====
 
 ## Members
 
