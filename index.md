@@ -1,4 +1,4 @@
-﻿# BJTU Team SpadeAce 2015
+# BJTU Team SpadeAce 2015
 
 
 ## Members
