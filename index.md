@@ -1,4 +1,4 @@
-# BJTU SpadeAce¶ÓWiki 2015
+ï»¿# BJTU Team SpadeAce 2015
 
 ====
 
